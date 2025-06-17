@@ -1,0 +1,17 @@
+body{
+    background-color: #343a40;
+}
+
+.container{
+    margin-top: 100px;
+    max-width: 500px;
+}
+
+.autoCompleteInput {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.resultContainer{
+    background-color: #fff;
+}
