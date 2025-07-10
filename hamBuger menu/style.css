@@ -1,0 +1,76 @@
+body {
+    background-color: #343a40;
+    color: #20c997;
+}
+
+.container{
+    max-width: 1000px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.hamburgerMenuContainer{
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.hamBurger{
+    width: 40px;
+    height: 4px;
+    background-color: #cdedf6;
+    margin:5px 0px;
+    border-radius: 5px;
+}
+
+.line1, .line2, .line3, .overlayMenu{
+    transition: all 0.5s ease;
+}
+
+.hideLine2{
+    opacity: 0;
+}
+
+.rotatePlus45Deg{
+    transform: rotate(45deg) translate(4px, 9px);
+}
+
+.rotateMinus45Deg{
+    transform: rotate(-45deg) translate(4px, -9px);
+}
+
+.overlayMenu{
+    width: 100%;
+    height: 100%;
+    background-color: #042a2b;
+    position: absolute;
+    left: 0px;
+    top: 0;
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.showOverlayMenu{
+    opacity: 1;
+}
+
+li{
+    list-style: none;
+    font-size: 25px;
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.5s ease;
+}
+
+li:hover{
+    opacity: 0.8;
+}
+
+.moveLiTagUp{
+    transform: translateY(-10px);
+}
