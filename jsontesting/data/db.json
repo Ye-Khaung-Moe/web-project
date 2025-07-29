@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget venenatis elit, id porttitor sapien. Pellentesque euismod diam at felis eleifend, vel volutpat elit varius. Integer at accumsan quam. Praesent posuere, ligula sit amet sagittis sagittis, dolor sapien viverra est, non tristique metus est eget nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec feugiat odio. Suspendisse sed sapien bibendum, rutrum libero mollis, pulvinar diam. Quisque vitae arcu accumsan, elementum nibh et, convallis lorem. Phasellus convallis volutpat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "likes": 30
+    },
+    {
+      "id": "2",
+      "title": "Computer Enthusista",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget venenatis elit, id porttitor sapien. Pellentesque euismod diam at felis eleifend, vel volutpat elit varius. Integer at accumsan quam. Praesent posuere, ligula sit amet sagittis sagittis, dolor sapien viverra est, non tristique metus est eget nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec feugiat odio. Suspendisse sed sapien bibendum, rutrum libero mollis, pulvinar diam. Quisque vitae arcu accumsan, elementum nibh et, convallis lorem. Phasellus convallis volutpat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "likes": 20
+    },
+    {
+      "id": "3",
+      "title": "Harry Potter: Dead Hallown",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget venenatis elit, id porttitor sapien. Pellentesque euismod diam at felis eleifend, vel volutpat elit varius. Integer at accumsan quam. Praesent posuere, ligula sit amet sagittis sagittis, dolor sapien viverra est, non tristique metus est eget nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec feugiat odio. Suspendisse sed sapien bibendum, rutrum libero mollis, pulvinar diam. Quisque vitae arcu accumsan, elementum nibh et, convallis lorem. Phasellus convallis volutpat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "likes": 39
+    },
+    {
+      "id": "4",
+      "title": "Star wars: Rebels",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget venenatis elit, id porttitor sapien. Pellentesque euismod diam at felis eleifend, vel volutpat elit varius. Integer at accumsan quam. Praesent posuere, ligula sit amet sagittis sagittis, dolor sapien viverra est, non tristique metus est eget nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec feugiat odio. Suspendisse sed sapien bibendum, rutrum libero mollis, pulvinar diam. Quisque vitae arcu accumsan, elementum nibh et, convallis lorem. Phasellus convallis volutpat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "likes": 20
+    },
+    {
+      "id": "5",
+      "title": "Death Steading",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget venenatis elit, id porttitor sapien. Pellentesque euismod diam at felis eleifend, vel volutpat elit varius. Integer at accumsan quam. Praesent posuere, ligula sit amet sagittis sagittis, dolor sapien viverra est, non tristique metus est eget nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec feugiat odio. Suspendisse sed sapien bibendum, rutrum libero mollis, pulvinar diam. Quisque vitae arcu accumsan, elementum nibh et, convallis lorem. Phasellus convallis volutpat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "likes": 50
+    },
+    {
+      "id": "da88",
+      "title": "Star Wars: Clone Wars",
+      "body": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n",
+      "likes": 0
+    }
+  ],
+  "polls": [
+    {
+      "id": "1",
+      "question": "Do you perfer Star Wars or Star Trek?",
+      "Answer A:": "Star Wars",
+      "Answer B": "Star Trek"
+    }
+  ]
+}
